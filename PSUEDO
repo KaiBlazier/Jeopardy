@@ -1,0 +1,19 @@
+Start
+  |
+Initialize Game Variables
+  |
+Loop through Categories and Questions
+  |
+Display Question
+  |
+Get Contestant's Answer
+  |
+Check Answer
+  |
+Award/Deduct Points
+  |
+Repeat until Game Ends
+  |
+Announce Winner
+  |
+End
